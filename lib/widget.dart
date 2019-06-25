@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// TODO - Didalam widget Card() terdapat banyak widget yang digunakan, Anda dapat memisahkan beberapa widget dengan membuatnya fungsi baru agar code Anda lebih rapih
 Widget card1() {
   return Card(
     child: Column(

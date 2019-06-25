@@ -7,6 +7,7 @@ void main() {
   runApp(MyHomePage());
 }
 
+// TODO - Kelas yang tidak memerlukan perubahan data dapat menggunakan StatelessWidget.
 class MyHomePage extends StatefulWidget {
   @override
   _MyHomePageState createState() => _MyHomePageState();
